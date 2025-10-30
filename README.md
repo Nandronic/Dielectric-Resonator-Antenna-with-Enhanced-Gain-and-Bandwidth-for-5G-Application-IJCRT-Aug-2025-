@@ -1,3 +1,4 @@
+
 # 📡 Dielectric Resonator Antenna with Enhanced Gain and Bandwidth for 5G Application
 
 ![IJCRT](https://img.shields.io/badge/IJCRT-Published-blue?style=for-the-badge)
@@ -105,7 +106,7 @@ The **simulated and measured** reflection coefficients, gain, and radiation patt
 🎓 B.E. Electronics and Communication Engineering  
 🏫 Vidya Vikas Institute of Engineering & Technology (VVIET), Mysuru – India  
 📧 nandanunandanu1@gmail.com  
-🌐 [LinkedIn](#) • [GitHub](#) • [ResearchGate](#)
+🌐 [LinkedIn](https://www.linkedin.com/in/nandan-u-473a85226/) • [GitHub](https://github.com/Nandronic) • [ResearchGate](#)
 
 ---
 
@@ -115,3 +116,4 @@ The **simulated and measured** reflection coefficients, gain, and radiation patt
 ---
 
 > ⭐ **Status:** Peer-Reviewed and Published in IJCRT Vol 12 Issue 8 (Aug 2024)
+
